@@ -1,0 +1,31 @@
+ .heading{
+            font-family: 'Times New Roman', Times, serif;
+            padding:10px;
+            font-size: 40px;
+        }
+        .datetime{
+            background-color: black;
+            color:white;
+            padding: 10px;
+            font-size: 10px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .headlines{
+            padding: 10px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            
+        }
+        .side-heading{
+            padding: 10px;
+        }
+        .short-news{
+            padding: 20px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .footer{
+             color:white;
+             text-align: center;
+            padding: 10px;
+            margin-top: 20px ;
+            background-color: black;
+        }
